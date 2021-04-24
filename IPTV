@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo=https://i.pinimg.com/originals/cb/e2/7a/cbe27aaa234aa19ec8693b298b5718c6.png",VTV1 HD
+https://jn4yu7gyp.vtvgiaitri.vn/vtv01/index-48.m3u8
+
+#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.pinimg.com/originals/b6/01/e4/b601e4afaf3c5de11b93e6da11563f3b.png",VTV2 HD
+https://jn4yu7gyp.vtvgiaitri.vn/vtv02/index-48.m3u8
+
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.pinimg.com/originals/5a/46/e5/5a46e565ad086932e8afd4ac9393d60f.png",VTV3 HD
+https://jn4yu7gyp.vtvgiaitri.vn/vtv03/index-34.m3u8
+
+#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv4.png?1544944575",VTV4 HD
+https://jn4yu7gyp.vtvgiaitri.vn/vtv04/index-34.m3u8
+
+#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://thethao99.com/wp-content/uploads/2020/09/vtv5-truc-tiep-bong-da-viet-nam.png",VTV5 HD
+https://jn4yu7gyp.vtvgiaitri.vn/vtv05/index-34.m3u8
+
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.pinimg.com/originals/65/f9/79/65f979c7a1e6c1c054c8edd152fe1216.png",VTV6 HD
+https://jn4yu7gyp.vtvgiaitri.vn/vtv06/index-34.m3u8
+
+#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv7.png?1544944934",VTV7 HD
+https://jn4yu7gyp.vtvgiaitri.vn/vtv07/index-34.m3u8
+
+#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv8.png?1544945092",VTV8 HD
+https://jn4yu7gyp.vtvgiaitri.vn/vtv08/index-34.m3u8
+
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv9.png?1544945164",VTV9 HD
+https://jn4yu7gyp.vtvgiaitri.vn/vtv09/index-34.m3u8
