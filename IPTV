@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo=https://i.pinimg.com/originals/cb/e2/7a/cbe27aaa234aa19ec8693b298b5718c6.png",VTV1 HD
-https://jn4yu7gyp.vtvgiaitri.vn/vtv01/index-48.m3u8
+https://hni-vtt-002-livecdn-vthn-vnd.vieon.vn/1fe27e1457fdb721a29121444c2dec8b/1619370631860/vtc/live/hd_vtv1_test/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.pinimg.com/originals/b6/01/e4/b601e4afaf3c5de11b93e6da11563f3b.png",VTV2 HD
 https://jn4yu7gyp.vtvgiaitri.vn/vtv02/index-48.m3u8
