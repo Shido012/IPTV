@@ -67,7 +67,7 @@ http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
 
 #EXTINF:0 tvg-id="vtc1" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/VTC1_logo_2018.svg/1200px-VTC1_logo_2018.svg.png",VTC1 HD
 #EXTVLCOPT:http-user-agent="IPTV"
-https://livecdn.fptplay.net/sdb/vtc1_hls.smil/chunklist_b2500000.m3u8
+https://live-vthn.vieon.vn:443/vtc/live/hd_vtc1/TV_HD/hd_vtc1_1080p/chunks.m3u8?
 
 #EXTINF:0 tvg-id="vtc2" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/VTC2_logo_2018.svg/1200px-VTC2_logo_2018.svg.png",VTC2
 https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
